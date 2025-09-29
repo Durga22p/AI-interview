@@ -1,0 +1,29 @@
+HR: "Suppose you’re given a messy dataset with lots of missing values. How would you handle it before analysis?"
+JobSeeker: "First, I’d check the extent of missing data.
+            If it’s small, I’d drop those rows/columns.
+            If it’s significant, I’d use techniques like mean/median/mode imputation, forward/backward fill, or predictive models depending on the feature type and business impact."
+HR: "Niceee  That’s exactly how a thoughtful analyst would approach it — balancing data quality with business needs.
+Next one: Imagine your manager asks you for insights, but the data doesn’t really show anything strong or clear. How would you handle that situation?"
+JobSeeker: "I’d be honest and say the data doesn’t show strong patterns.
+            Then, I’d present what’s observable, explain possible reasons, and suggest collecting more data or alternative metrics.
+            I’d also give them clear visuals so they can see the limitations themselves."
+HR: "Love that answer  — honesty + clarity + visuals = manager-friendly!
+Next scenario: You’ve got 3 tasks — building a report due today, cleaning a dataset due tomorrow, and preparing a presentation for next week. How would you prioritize?"
+JobSeeker: "I’d finish the report first since it’s due today.
+            Next, I’d focus on cleaning the dataset for tomorrow.
+            Then I’d break the presentation into smaller parts and work on it gradually before next week.
+            This way, deadlines are met without last-minute pressure."
+HR: " Smart and structured — that’s exactly the time management we look for!
+Okay, now imagine: You find an unusual spike in sales data for one region. How would you go about verifying whether it’s a real trend or just an error?"
+JobSeeker: "First, I’d check the raw data for entry errors or duplicates.
+            Then, I’d compare it with past trends and cross-check with external factors like promotions or events.
+            If it’s consistent and supported by context, it’s a real trend; if not, likely a data issue."
+HR: "Spot on!  That’s exactly the kind of detective work we love in a data analyst.
+Quick one: If your colleague disagrees with your analysis findings, how would you handle it?"
+JobSeeker: "I’d listen to their viewpoint calmly, review the data together, and explain my methodology clearly.
+             If needed, I’d re-check the analysis and stay open to adjusting conclusions based on valid points."
+HR: "Nice  — respectful, collaborative, and data-driven. That’s teamwork gold!
+Last one for now: If you could choose one skill to master next that would make you a better data analyst, what would it be?"
+JobSeeker: "I’d choose advanced machine learning, especially deep learning, to uncover deeper insights and make more accurate predictions."
+HR: "Ooo nice choice  — deep learning is powerful and totally next-level for data analysis. Love your growth mindset! 🚀
+     If you want, I can now switch and give you a mini “HR interview recap” with feedback and a next round of sharper scenario questions."
